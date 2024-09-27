@@ -1,6 +1,7 @@
 {
   "name": "babel-plugin-lodash",
   "version": "3.3.4",
+  "private": true,
   "description": "Modular Lodash builds without the hassle.",
   "keywords": "babel-plugin, cherry-pick, lodash, modules",
   "repository": "lodash/babel-plugin-lodash",
